@@ -16,6 +16,4 @@ Ela fornece informação relevante para que o investidor consiga tomar *decisõe
 
 # 💰 Resultado
 
-A planilha produzida neste desafio pode ser acessada abaixo:
-
-[Planilha de simulação de investimento FII](Planilha_fiis.xlxs)
+A planilha produzida neste desafio pode ser acessada acima.
